@@ -8,12 +8,12 @@ A conversation is an interactive text-exchange session between some number of cl
 
 Key features:
 ------------------
-1-	Each client can be able to join the Group Messenger chat, create a private chat, and leave any chat.
-2-	Each client can see which users currently logged in.
-3-	Incoming messages are displayed immediately.
-4-	Server can be able to maintain an unlimited number of open client connections. 
-5-	One client can send a private chat to another client
-6-	One client can have multiple private chat with each user
+1-	Each client can be able to join the Group Messenger chat, create a private chat, and leave any chat.  
+2-	Each client can see which users currently logged in.  
+3-	Incoming messages are displayed immediately.  
+4-	Server can be able to maintain an unlimited number of open client connections.   
+5-	One client can send a private chat to another client  
+6-	One client can have multiple private chat with each user  
 
 How to use:
 ------------------
