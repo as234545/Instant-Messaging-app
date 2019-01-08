@@ -17,9 +17,10 @@ Key features:
 
 How to use:
 ------------------
-1 - After downloading and unzipping the file, open the java files in NetBeans.
-2 - In line 18 in the TcpClient.java file put the server ip address.
-3 - first run the TcpServer.java file then the TcpClient.java file
+1- After downloading and unzipping the file, open the java files in NetBeans.
+2- In line 18 in the TcpClient.java file put the server ip address.
+3- first run the TcpServer.java file then the TcpClient.java file.
+4- new you should have a IM application runing.
 
 contain:
 ------------------
